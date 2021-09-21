@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @CodeKing101
-<!---
-CodeKing101/CodeKing101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align=center>Hi there, I'm Coder101! 👋</h1>
+
+
+[![](https://komarev.com/ghpvc/?username=CodeKing101)](https://github.com/CodeKing101)
+
+## About Me
+I code things for fun! My primary language is C#.
+
+## My GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=CodeKing101&include_all_commits=true&hide_border=true&count_private=true" />
